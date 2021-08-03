@@ -1,6 +1,7 @@
 # FirstWebsite
 A static website that was built during a web development course, I redesigned it and made it responsive with media queries and flex box.
 <br/>
+<br/>
 
 ## This is what it looked like before
 
