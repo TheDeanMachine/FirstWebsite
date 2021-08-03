@@ -13,4 +13,5 @@ A static website that was built during a web development course, I redesigned it
 
 <img src = "https://github.com/TheDeanMachine/FirstWebsite/blob/383cf8b913b08a36afb30b1b0a47511cc3047014/media/Animation2.gif">
 
-The project code files are in the other Main branch
+<br/>
+I have no affiliation with habitat for humanity, this is for demonstration purposes only. 
